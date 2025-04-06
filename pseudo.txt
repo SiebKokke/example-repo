@@ -1,0 +1,28 @@
+prompt user to input a number 
+create variable "number" for number
+if number is greater than previous number store it in "number"
+repeat until user inputs zero 
+then print highest number user entered
+
+request users name
+store in variable first_name 
+print(first_name and "Hello, World!") 
+
+get arbitrary number of intergers 
+variable "numirator" equals all the intergers added together
+variable "dinominator" equals count of intergers 
+print("numirator" divided by "dinominator")
+
+Initialise variable "grocery_list" which stores grocery items 
+if grocery item is NOT pruchased 
+add to list "still need to buy" 
+print list "still need to buy" in alphabetical order 
+
+read variables X and Y 
+S equals X plus Y 
+A equals S devided by 2 
+P equals X times Y 
+print(S, A, P) 
+
+
+
